@@ -1,4 +1,4 @@
-# maulimogal.netlify.app
+# Portfolio
 I am Dnyaneshwar Mogal. I am learning web development. My skill:
 
 1. HTML5
