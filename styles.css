@@ -87,6 +87,12 @@ body {
 }
 .navigation .nav-brand {
 	font-weight: bold;
+	font-size: 1.1rem;
+}
+
+.nav-brand a {
+    text-decoration: none;
+    color: inherit;
 }
 
 .navigation .nav-pills {
