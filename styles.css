@@ -1,6 +1,7 @@
 body {
   font-family: "Poppins", sans-serif;
   margin: 0;
+  background-color: #ece2e0;
 }
 .page-content-wrapper {
   width: 100%;
@@ -10,10 +11,7 @@ body {
 
 :root {
   --primary-color: #3b82f6;
-  --off-white: #dbeafe;
-  --faint-gray: rgb(208, 211, 214);
-  --dark-gray: #6b7280;
-  --moreDarkGray: rgb(48, 52, 58);
+  --very-light-shade-of-red: #ece2e0;
 }
 
 /* Container */
@@ -144,11 +142,11 @@ body {
   text-align: left;
 }
 .section h1 {
-  color: var(--moreDarkGray);
+  color: black;
 }
 
 .ow {
-  background-color: var(--off-white);
+  background-color: #ece2e0;
 }
 
 /* project listing */
@@ -161,7 +159,7 @@ body {
   font-size: 1.5rem;
   font-weight: 6 00;
   margin: 0rem;
-  color: var(--moreDarkGray);
+  color: black;
 }
 .article time {
   font-size: 14px;
@@ -178,7 +176,7 @@ body {
 }
 .fontOfNumbers li {
   font-size: 1.3rem;
-  color: var(--moreDarkGray);
+  color: black;
 }
 
 .article {
@@ -246,7 +244,7 @@ h3 {
 }
 
 .blog .bgcolorGray {
-  background-color: var(--faint-gray);
+  background-color: black;
 }
 
 .blog .highlightBlack {
