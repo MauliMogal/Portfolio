@@ -120,7 +120,7 @@ body {
 .hero .hero-heading {
   text-align: center;
   padding-top: 1rem;
-  color: var(--dark-gray);
+  color: black;
 }
 
 .hero .hero-heading .heading-inverted {
