@@ -1,13 +1,11 @@
-# Portfolio
-I am Dnyaneshwar Mogal. I am learning web development. My skill:
+# Aria Template
 
-1. HTML5
-2. CSS3
-3. Javascript
-4. React
-5. Git, Github
-6. Netlify
+This is a personal blog, portfolio, or blog template created for [Static](https://static.devdojo.com).
 
-This is my personal portfolio. Created using pure HTML and CSS.
+![Aria Template Cover Photo](https://raw.githubusercontent.com/static-templates/aria/main/assets/images/cover.jpg)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8dbe450a-d98b-4eb1-9f90-7c13262d15ca/deploy-status)](https://app.netlify.com/sites/maulimogal/deploys)
+You can install this theme with the [static](https://www.npmjs.com/package/@devdojo/static) new command like so:
+
+```
+static new folder-name --aria
+```
