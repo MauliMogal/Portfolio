@@ -1,11 +1,13 @@
 # Aria Template
 
-This is a personal blog, portfolio, or blog template created for [Static](https://static.devdojo.com).
+This is a personal blog, portfolio, or blog template created for [Astro](https://astro.build).
 
-![Aria Template Cover Photo](https://raw.githubusercontent.com/static-templates/aria/main/assets/images/cover.jpg)
+Astro port of [aria](https://github.com/static-templates/aria).
 
-You can install this theme with the [static](https://www.npmjs.com/package/@devdojo/static) new command like so:
+![Aria Template Cover Photo](https://github.com/ccbikai/astro-aria/blob/main/public/assets/images/cover.png?raw=true)
 
-```
-static new folder-name --aria
+You can install this theme with the [Astro](https://astro.build) command like so:
+
+```js
+npm create astro@latest -- --template ccbikai/astro-aria
 ```
