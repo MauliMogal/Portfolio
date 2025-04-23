@@ -37,8 +37,8 @@ const Navbar: React.FC = () => {
   // Handle downloading the resume
   const handleResumeDownload = () => {
     const link = document.createElement('a');
-    link.href = '/src/assets/resume-placeholder.pdf';
-    link.download = 'developer-resume.pdf';
+    link.href = '/src/assets/resume.pdf';
+    link.download = 'mauli-mogal-resume.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
@@ -54,7 +54,7 @@ const Navbar: React.FC = () => {
         <nav className="flex items-center justify-between py-4">
           {/* Logo */}
           <NavLink to="/" className="text-white font-medium text-xl">
-            <span className="gradient-text">John.dev</span>
+            <span className="gradient-text">Mauli Mogal</span>
           </NavLink>
 
           {/* Desktop Navigation */}
