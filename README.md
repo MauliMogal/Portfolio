@@ -22,7 +22,6 @@ Built with **Vite + React**, this project showcases my skills, experience, and p
 ## 📸 Preview
 
 ![Portfolio Screenshot](./src/assets/preview.png)  
-> _Replace this image with a full-page screenshot of your site for best presentation._
 
 ---
 
