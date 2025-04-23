@@ -84,28 +84,27 @@ const ProjectDetail: React.FC = () => {
                   
                   {/* Extended description - this would be part of your actual data model */}
                   <p className="text-gray-300">
-                    This project was developed to solve real-world problems by providing users with an intuitive interface and robust functionality. 
-                    I focused on performance optimization, responsive design, and clean code architecture to ensure a seamless user experience 
-                    across all devices.
+                    Est nisi accusantium sit sint labore cum deserunt vitae non adipisci aliquid At omnis consequatur sit magnam nulla vel tempore quia.
+                    Hic atque provident ad deserunt illo aut possimus quia ut officiis dolores aut voluptates nobis quo laboriosam voluptatem. Qui dolorum omnis sit tenetur possimus At mollitia natus.
                   </p>
                 </div>
                 
                 <div className="mb-8">
                   <h2 className="text-xl font-medium mb-3">Key Features</h2>
                   <ul className="list-disc pl-5 text-gray-300 space-y-2">
-                    <li>Responsive design that works on all devices</li>
-                    <li>Intuitive user interface with smooth animations</li>
-                    <li>Optimized performance for fast load times</li>
-                    <li>Secure authentication and data handling</li>
-                    <li>Comprehensive error handling and user feedback</li>
+                    <li>Non magnam enim eos</li>
+                    <li>Ut voluptatibus praesentium qui </li>
+                    <li>suscipit rerum et laboriosam aliquam </li>
+                    <li>et libero voluptatum non ducimus </li>
+                    <li>et libero voluptatum non ducimus </li>
                   </ul>
                 </div>
                 
                 <div className="mb-8">
                   <h2 className="text-xl font-medium mb-3">Development Process</h2>
                   <p className="text-gray-300">
-                    The development process involved extensive planning, wireframing, and prototyping before moving to the implementation phase. 
-                    I followed an agile methodology, breaking down the project into manageable sprints and constantly iterating based on feedback.
+                    Ad veritatis ullam est doloremque adipisci est galisum facilis non excepturi galisum sed recusandae sint et error error.
+                    In ipsam inventore qui molestiae excepturi aut sunt quis.
                   </p>
                 </div>
               </motion.div>
