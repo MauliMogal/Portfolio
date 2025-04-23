@@ -7,19 +7,19 @@ const contactInfo = [
   {
     icon: <Mail size={24} />,
     title: 'Email',
-    value: 'john.doe@example.com',
-    link: 'mailto:john.doe@example.com'
+    value: 'maulimogal@gmail.com',
+    link: 'mailto:maulimogal@gmail.co'
   },
   {
     icon: <Phone size={24} />,
     title: 'Phone',
-    value: '+1 (555) 123-4567',
-    link: 'tel:+15551234567'
+    value: '+91 7875092655',
+    link: 'tel:+917875092655'
   },
   {
     icon: <MapPin size={24} />,
     title: 'Location',
-    value: 'San Francisco, CA',
+    value: 'Pune, MH, India',
     link: null
   }
 ];
@@ -28,20 +28,20 @@ const socialLinks = [
   {
     icon: <Github size={24} />,
     title: 'GitHub',
-    username: 'johndoe',
-    link: 'https://github.com/yourusername'
+    username: 'maulimogal',
+    link: 'https://github.com/maulimogal'
   },
   {
     icon: <Linkedin size={24} />,
     title: 'LinkedIn',
-    username: 'johndoe',
-    link: 'https://linkedin.com/in/yourusername'
+    username: 'maulimogal',
+    link: 'https://linkedin.com/in/maulimogal'
   },
   {
     icon: <Twitter size={24} />,
     title: 'Twitter',
-    username: '@johndoe',
-    link: 'https://twitter.com/yourusername'
+    username: '@maulimogal',
+    link: 'https://twitter.com/maulimogal'
   }
 ];
 

@@ -20,13 +20,12 @@ const HeroSection: React.FC = () => {
           >
             <span className="text-primary-400 font-medium mb-2 block">Hello, I'm</span>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 leading-tight">
-              John Doe
-              <span className="block mt-2 gradient-text">Full Stack Developer</span>
+              Mauli Mogal
+              <span className="block mt-2 gradient-text">Full Stack Web Developer</span>
             </h1>
             
             <p className="text-gray-300 text-lg md:text-xl mb-8">
-              I build exceptional digital experiences with modern technologies. 
-              Focused on creating responsive, user-friendly applications that solve real-world problems.
+            I specialize in building modern, responsive web applications that prioritize simplicity, usability, and real-world impact. My goal is to create seamless digital experiences that solve problems and make users’ lives easier.
             </p>
             
             <div className="flex flex-wrap gap-4 justify-center">

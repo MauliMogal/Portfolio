@@ -34,7 +34,7 @@ const Home: React.FC = () => {
               
               <div className="flex space-x-4 items-center">
                 <a
-                  href="https://github.com/yourusername"
+                  href="https://github.com/maulimogal"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-primary-400 transition-colors"
@@ -43,7 +43,7 @@ const Home: React.FC = () => {
                   <Github size={20} />
                 </a>
                 <a
-                  href="https://linkedin.com/in/yourusername"
+                  href="https://linkedin.com/in/maulimogal"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-primary-400 transition-colors"

@@ -9,22 +9,22 @@ const Footer: React.FC = () => {
     { 
       name: 'GitHub', 
       icon: <Github size={18} />, 
-      url: 'https://github.com/yourusername' 
+      url: 'https://github.com/maulimogal' 
     },
     { 
       name: 'LinkedIn', 
       icon: <Linkedin size={18} />, 
-      url: 'https://linkedin.com/in/yourusername' 
+      url: 'https://linkedin.com/in/maulimogal' 
     },
     { 
       name: 'Twitter', 
       icon: <Twitter size={18} />, 
-      url: 'https://twitter.com/yourusername' 
+      url: 'https://twitter.com/maulimogal' 
     },
     { 
       name: 'Email', 
       icon: <Mail size={18} />, 
-      url: 'mailto:your.email@example.com' 
+      url: 'mailto:maulimogal@gmail.com' 
     },
   ];
 
@@ -33,7 +33,7 @@ const Footer: React.FC = () => {
       <div className="container-custom mx-auto py-8">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
-            <div className="text-xl font-medium gradient-text mb-2">John.dev</div>
+            <div className="text-xl font-medium gradient-text mb-2">Mauli Mogal</div>
             <p className="text-gray-400 text-sm">Full Stack Web Developer</p>
           </div>
 
@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="border-t border-dark-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-500">
-          <div>© {currentYear} John Doe. All rights reserved.</div>
+          <div>© {currentYear} Mauli Mogal. All rights reserved.</div>
           <div className="mt-4 md:mt-0">
             <ul className="flex space-x-6">
               <li><a href="#" className="hover:text-primary-400 transition-colors">Privacy Policy</a></li>
